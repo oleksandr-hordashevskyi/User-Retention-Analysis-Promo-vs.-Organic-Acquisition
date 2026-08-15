@@ -67,6 +67,3 @@ user-retention-cohort-analysis/
 
 ### Promotional Campaign Cohort (`promo_signup_flag = 1`)
 ![Cohort Matrix - Promo](images/cohort_table_promo.png)
-
-### Executive Summary Dashboard View
-![Executive Summary](images/executive_summary.png)
