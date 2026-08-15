@@ -49,3 +49,24 @@ user-retention-cohort-analysis/
     ├── cohort_table_organic.png
     ├── cohort_table_promo.png
     └── executive_summary.png
+
+---
+
+* 📄 **SQL Pipeline**: [`sql/cohort_retention_pipeline.sql`](sql/cohort_retention_pipeline.sql) *(Includes full data cleaning, CTEs, filtering, and aggregation)*
+* 📊 **Interactive Model**: [View Interactive Google Sheets (Viewer Access)]([PASTE_YOUR_GOOGLE_SHEETS_VIEWER_LINK_HERE](https://docs.google.com/spreadsheets/d/155Ze-APGupzugtmVIlz_pGMxPA033AO_ZmCHMNOWcaw/edit?usp=sharing)
+
+---
+
+## 📈 Visualizations
+
+### Overall Cohort Matrix (Active Users & Retention Rate)
+![Cohort Matrix - All Users](images/cohort_table_all.png)
+
+### Organic Acquisition Cohort (`promo_signup_flag = 0`)
+![Cohort Matrix - Organic](images/cohort_table_organic.png)
+
+### Promotional Campaign Cohort (`promo_signup_flag = 1`)
+![Cohort Matrix - Promo](images/cohort_table_promo.png)
+
+### Executive Summary Dashboard View
+![Executive Summary](images/executive_summary.png)
