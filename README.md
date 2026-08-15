@@ -49,7 +49,7 @@ user-retention-cohort-analysis/
     ├── cohort_table_organic.png
     ├── cohort_table_promo.png
     └── executive_summary.png
-
+```
 ---
 
 * 📄 **SQL Pipeline**: [`sql/cohort_retention_pipeline.sql`](sql/cohort_retention_pipeline.sql) *(Includes full data cleaning, CTEs, filtering, and aggregation)*
