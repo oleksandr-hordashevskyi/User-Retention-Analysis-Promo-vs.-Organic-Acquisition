@@ -53,7 +53,7 @@ user-retention-cohort-analysis/
 ---
 
 * 📄 **SQL Pipeline**: [`sql/cohort_retention_pipeline.sql`](sql/cohort_retention_pipeline.sql) *(Includes full data cleaning, CTEs, filtering, and aggregation)*
-* 📊 **Interactive Model**: [View Interactive Google Sheets (Viewer Access)]([PASTE_YOUR_GOOGLE_SHEETS_VIEWER_LINK_HERE](https://docs.google.com/spreadsheets/d/155Ze-APGupzugtmVIlz_pGMxPA033AO_ZmCHMNOWcaw/edit?usp=sharing)
+* 📊 **Interactive Model**: [View Interactive Google Sheets (Viewer Access)](https://docs.google.com/spreadsheets/d/155Ze-APGupzugtmVIlz_pGMxPA033AO_ZmCHMNOWcaw/edit?usp=sharing)
 
 ---
 
