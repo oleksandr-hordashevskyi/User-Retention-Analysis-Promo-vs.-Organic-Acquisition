@@ -68,12 +68,12 @@ user-retention-cohort-analysis/
 ### Organic Acquisition Cohort (`promo_signup_flag = 0`)
 ![Cohort Matrix - Organic](images/cohort_table_organic.png)
 
+### Promotional Campaign Cohort (`promo_signup_flag = 1`)
+![Cohort Matrix - Promo](images/cohort_table_promo.png)
+
 📬 Contact
 Author: Oleksandr Hordashevskyi
 
 LinkedIn: www.linkedin.com/in/oleksandr-hordashevskyi
 
 Email: o.hordashevskyi@gmail.com
-
-### Promotional Campaign Cohort (`promo_signup_flag = 1`)
-![Cohort Matrix - Promo](images/cohort_table_promo.png)
