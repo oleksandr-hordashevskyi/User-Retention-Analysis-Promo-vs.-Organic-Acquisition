@@ -1,5 +1,8 @@
 # User Retention Analysis: Promo vs. Organic Acquisition
 
+[![SQL Pipeline](https://img.shields.io/badge/SQL-PostgreSQL_Pipeline-336791?style=flat&logo=postgresql&logoColor=white)](sql/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 ## 📌 Executive Summary
 This project evaluates customer retention dynamics across monthly registration cohorts (Jan–Jun 2025) to analyze the long-term effectiveness of customer acquisition channels. By integrating **SQL** for raw event data extraction, data cleaning, and transformation with **Google Sheets** for cohort modeling and heatmaps, this analysis investigates whether promotional campaigns deliver sustainable customer engagement compared to organic traffic.
 
