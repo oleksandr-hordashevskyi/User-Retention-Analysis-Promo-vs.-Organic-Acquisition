@@ -65,6 +65,13 @@ user-retention-cohort-analysis/
 ### Overall Cohort Matrix (Active Users & Retention Rate)
 ![Cohort Matrix - All Users](images/cohort_table_all.png)
 
+📬 Contact
+Author: Oleksandr Hordashevskyi
+
+LinkedIn: www.linkedin.com/in/oleksandr-hordashevskyi
+
+Email: o.hordashevskyi@gmail.com
+
 ### Organic Acquisition Cohort (`promo_signup_flag = 0`)
 ![Cohort Matrix - Organic](images/cohort_table_organic.png)
 
